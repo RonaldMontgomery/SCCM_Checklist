@@ -82,6 +82,10 @@ Checklist of SCCM maintenance tasks
 <li>Check network performance to ensure changes have not been made that affect site operations.</li>
 </ol>
 
+## Post-Upgrade Tasks
+<ol>
+  <li>placeholder</li>
+</ol>
 
 ## Sources
 http://docshare01.docshare.tips/files/23828/238280542.pdf </br>
