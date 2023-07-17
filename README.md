@@ -19,6 +19,7 @@ Checklist of SCCM maintenance tasks
 <li>Check audit report for previous day activities.</li>
 <li>Check site links if applicable.</li>
 <li>Check status filter rules.</li>
+<li>Check client scan error counts using report "Troubleshooting 1 - Scan Errors".</li>
 </ol>
 
 ## Weekly Tasks
@@ -52,6 +53,7 @@ Checklist of SCCM maintenance tasks
 <li>Monthly Patching for all client systems.</li> 
 <li>Review Windows patch compliance.</li>
 <li>Review advertisement success/failure rate.</li>
+<li>Review configuration baseline compliance using canned report "Summary compliance by configuration baseline".</li>
 <li>Review SCCM updates & SQL updates on all sccm servers.</li>
 <li>Review SCCM Clients.</li>
 <li>Review SCCM site settings on all SCCM servers.</li>
