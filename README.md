@@ -64,6 +64,7 @@ Checklist of SCCM maintenance tasks
 
 ## Quarterly Tasks
 <ol>
+<li>Content library cleanup tool.</li>
 <li>Review SCCM Site boundaries.</li>
 <li>Review SCCM-OU Mapping.</li>
 <li>Review Infrastructure related issues.</li>
