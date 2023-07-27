@@ -24,6 +24,7 @@ Checklist of SCCM maintenance tasks
 
 ## Weekly Tasks
 <ol>
+<li>Target client push to collections of computers without SCCM client and with outdated version of SCCM client.</li> 
 <li>Check that predefined maintenance tasks that are scheduled to run weekly are running successfully.</li>
 <li>Back up application, security, and system event logs and clear them.</li>
 <li>Check the site database size and verify there's enough available disk space on the site database server so that the site database can grow.</li>
