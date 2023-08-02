@@ -31,7 +31,6 @@ Checklist of SCCM maintenance tasks
 <li>Do SQL Server database maintenance on the site database according to your SQL Server maintenance plan.</li>
 <li>Check available disk space on all site systems.</li>
 <li>Run disk defragmentation tools on all site systems.</li>
-<li>Delete unnecessary SCCM objects.</li>
 <li>Check system performance issues.</li>
 <li>Check advertisement status.</li>
 <li>Review Package status.</li>
@@ -42,6 +41,7 @@ Checklist of SCCM maintenance tasks
 
 ## Monthly Tasks
 <ol>
+<li>Perform WSUS maintenance tasks.</li>
 <li>Change accounts and passwords, if it's necessary, according to your security plan.</li>
 <li>Review the maintenance plan to check that scheduled maintenance tasks are scheduled correctly and effectively depending on configured site settings.</li>
 <li>Review the Configuration Manager hierarchy design for any required changes.</li>
@@ -85,6 +85,7 @@ Checklist of SCCM maintenance tasks
 <li>Review the hierarchy design for any needed changes.</li>
 <li>Check overall health of site.</li>
 <li>Check network performance to ensure changes have not been made that affect site operations.</li>
+<li>Review and delete unnecessary SCCM objects.</li>
 </ol>
 
 ## Post-Upgrade Tasks
