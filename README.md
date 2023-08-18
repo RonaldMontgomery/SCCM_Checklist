@@ -41,7 +41,7 @@ Checklist of SCCM maintenance tasks
 
 ## Monthly Tasks
 <ol>
-<li>Perform WSUS maintenance tasks.</li>
+<li>Perform WSUS maintenance tasks: https://learn.microsoft.com/en-US/troubleshoot/mem/configmgr/update-management/wsus-maintenance-guide</li>
 <li>Change accounts and passwords, if it's necessary, according to your security plan.</li>
 <li>Review the maintenance plan to check that scheduled maintenance tasks are scheduled correctly and effectively depending on configured site settings.</li>
 <li>Review the Configuration Manager hierarchy design for any required changes.</li>
